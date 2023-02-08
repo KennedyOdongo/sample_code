@@ -63,6 +63,7 @@ test = pd.read_csv(r"C:\Users\rodge\Downloads\Test_set.csv" )
 
 
 train.columns
+train.columns
 
 
 # In[6]:
